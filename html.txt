@@ -1,0 +1,31 @@
+summary of html
+
+link rel="icon" type"image/x-icon" href=""== header tag er moddhe use kora hoy. tab er upore namer saathe icon show korar jonno.
+
+
+#Inline Tag
+
+b/strong=Bold
+em/i=italic
+u=underline
+a herf=""== open link
+img src="" alt=""== show a image from web or pc, *No closing tag.
+form= form banay
+textarea= comment box bananor jonno
+input type=""== input newar  box banay.
+input type="" placeholder=""== box er vitore kichu dekhanor jonno.
+input type="submit" value="button er nam"== button bananor jonno.. *input tag er clossing tag nai.
+button= button bananor jonno. 
+select= drop down menu bananor jonno
+option value=""= select tag er moddhe element dewar jonno.
+ 
+
+
+#Block Tags
+
+p=paragraph
+h=header
+br=Line break Tag, *no closing tag
+ul=unordered list
+ol=ordered list
+li= list elements.
