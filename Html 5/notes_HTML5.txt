@@ -1,0 +1,33 @@
+++AUDIO src="" controls> ei tag use kore html file er moddhe audio file add kore hoy. src attribute e file er location dite hobe. Controls attribute use korle audio file ti usable hobe. website er moddhei audio ti play kora jabe. 
+
+++<video src="" controls>  ei tag use kore html file er moddhe video file add kore hoy. src attribute e file er location dite hobe. Controls attribute use korle video file ti usable hobe. website er moddhei video ti play kora jabe.
+
+++<iframe  src="" title="" > ei tag use kore bivinno streaming website(youtube) theke media play kora jay. src er moddhe website er link dite hobe.
+
+++ vscode er moddhe tag likhe dot diye class er nam likh le automatically tag ar class hoye jabe. (div.border}<div class="border">)
+
+++ li*5 likhle 5ta list tag toiri hoye jabe. TAB button use kore porer li tag gulote jawa jabe.
+
+++ div er poriborte kichu semantic tag= header, main, nav, section, artical, footer.
+
+++<lable for="input er id name "> input er lable dewar jonno use kore
+
+++<input type="radio, checkbox" name="shob radio or checkbox er jonno name same" id="">
+
+++<fieldset> ekta box er moddhe input newar jonno use kore.
+
+++<legend> fieldset er nam set korar jonno use kore.
+
+++<input type="reset"> reset button er jonno use kora hoy.
+
+++ <Table> Table toiri korar jonno ei tag use kora hoy.
+
+++ <thead> Likha bold show kore.
+
+++ <tr> table row newar jonno use kora hoy.
+
+++ <th> table head row er moddhe data er jonno use kora hoy.
+
+++ <tbody> table er body part er jnno ei tag use kore.
+
+++ <td> table body part e row gulote data entry er jonno ei tag use kora hoy.

@@ -1,5 +1,0 @@
-++AUDIO src="" controls> ei tag use kore html file er moddhe audio file add kore hoy. src attribute e file er location dite hobe. Controls attribute use korle audio file ti usable hobe. website er moddhei audio ti play kora jabe. 
-
-++<video src="" controls>  ei tag use kore html file er moddhe video file add kore hoy. src attribute e file er location dite hobe. Controls attribute use korle video file ti usable hobe. website er moddhei video ti play kora jabe.
-
-++<iframe  src="" title="" > ei tag use kore bivinno streaming website(youtube) theke media play kora jay. src er moddhe website er link dite hobe.
