@@ -31,3 +31,6 @@
 ++ <tbody> table er body part er jnno ei tag use kore.
 
 ++ <td> table body part e row gulote data entry er jonno ei tag use kora hoy.
+
+++ <nav> navigation bananor jonno use kora hoy. ul er moddhe li diye anchor tag use kore navigation banate hoy.
+
